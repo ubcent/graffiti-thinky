@@ -1,0 +1,25 @@
+{
+  "name": "graffiti-thinky",
+  "version": "1.0.0",
+  "description": "Thinky (RethinkDB) adapter for Graffiti (GraphQL ORM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubcent/graffiti-thinky.git"
+  },
+  "keywords": [
+    "rethinkdb",
+    "graphql",
+    "relay",
+    "graffiti"
+  ],
+  "author": "Dmitry Bondarchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubcent/graffiti-thinky/issues"
+  },
+  "homepage": "https://github.com/ubcent/graffiti-thinky#readme"
+}
