@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Thinky (RethinkDB) adapter for Graffiti (GraphQL ORM)",
   "main": "index.js",
+  "engines": {
+    "node": "6.2.2",
+    "npm": "3.9.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "eslint": "eslint src",
